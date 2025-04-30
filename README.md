@@ -91,9 +91,9 @@ Ce projet m’a permis de :
 
 ---
 
-## 📄 Licence
+📄 Licence
 
 Projet librement utilisable à des fins pédagogiques ou personnelles.
-```
+
 
 
