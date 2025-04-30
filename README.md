@@ -1,13 +1,12 @@
 
-```markdown
-# 💱 Convertisseur de Devises (Python + Flask)
+💱 Convertisseur de Devises (Python + Flask)
 
 Bienvenue dans mon mini-projet de développement web : une application simple de **conversion de devises** entre l'euro (EUR), le dollar américain (USD) et le dinar algérien (DZD).  
 Ce projet m’a permis de découvrir la programmation web avec **Python, Flask et HTML**.
 
 ---
 
-## 🚀 Fonctionnalités
+🚀 Fonctionnalités
 
 - Interface web simple et claire
 - Formulaire permettant à l’utilisateur de :
@@ -18,7 +17,7 @@ Ce projet m’a permis de découvrir la programmation web avec **Python, Flask e
 
 ---
 
-## 🛠️ Technologies utilisées
+🛠️ Technologies utilisées
 
 - 🐍 Python 3
 - 🔥 Flask (micro-framework web en Python)
@@ -27,7 +26,7 @@ Ce projet m’a permis de découvrir la programmation web avec **Python, Flask e
 
 ---
 
-## 📁 Structure du projet
+📁 Structure du projet
 
 ```
 convertisseur-devises/
@@ -36,7 +35,7 @@ convertisseur-devises/
     └── index.html          # Page web affichée à l’utilisateur
 ```
 
----
+
 
 
 ### (Optionnel) Créer un environnement virtuel
